@@ -1,4 +1,4 @@
-# Saathi – Elder People Pram
+# Saathi
 
 ## 🧩 Problem Statement
 
@@ -50,7 +50,7 @@ Design smart products to improve mobility, safety, and healthcare access for the
 | Component              | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
 | Elder Pram             | Lightweight, four-wheel, stable design with ergonomic support.              |
-| LoRa Technology        | Enables long-range, low-power GPS-based tracking.                           |
+| LoRa Technology        | Enables long-range, low-power, HighSpeed Communication.                     |
 | Health Band            | Monitors vital signs and sends data to the system in real time.             |
 | Mobile Application     | Developed for Android/iOS to facilitate monitoring and control.             |
 | Predictive Algorithms  | Suggests health recommendations based on trends in sensor data.             |
