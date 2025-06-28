@@ -81,7 +81,8 @@ Design smart products to improve mobility, safety, and healthcare access for the
 
 👉 [Click here to view the design](https://drive.google.com/file/d/1c6b2Fsutw9AJ6B8poPMWwjVtf9ovKvoM/view?usp=sharing)
 
-![22](https://github.com/user-attachments/assets/e9d8e4fa-9251-492d-a604-463ef1dcbf66)
+![1mg11](https://github.com/user-attachments/assets/a8d11987-bca1-49ff-ba17-041711badeb3)
+
 
 
 ---
