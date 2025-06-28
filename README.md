@@ -83,10 +83,3 @@ Design smart products to improve mobility, safety, and healthcare access for the
 
 ---
 
-## 🤝 Team Members
-
-Team YUKTIVEDI – Smart India Hackathon 2024 Finalists  
-For any queries, feel free to contact us.
-
----
-
